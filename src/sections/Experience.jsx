@@ -7,19 +7,25 @@ const experiences = [
     company: 'HCLSoftware (A Division of HCL Tech), Pune, India',
     period: 'Aug 2023 – Aug 2025',
     points: [
-      'Performed root cause analysis and implemented long-term fixes for defects reported by QA and end-users, improving system stability and reliability.',
-      'Identified and resolved defects across Linux, PowerLE, and Windows platforms during QA testing to maintain product quality and on-time delivery.',
-      'Automated data retrieval processes and addressed infrastructure issues, streamlining development workflows and improving team productivity.'
+      'Contributed to the development and maintenance of IBM Informix RDBMS, a high-performance relational database system, working extensively on C-based backend components across Linux, PowerLE, and Windows environments.',
+      'Diagnosed and resolved 50+ defects in a large-scale C codebase, performing deep root cause analysis on 20+ high-priority issues including segmentation faults, deadlocks, race conditions, and transaction failures, reducing post-release defects by 30–35%.',
+      'Designed, debugged, and optimized query execution paths, memory management, buffer pool handling, and concurrency control mechanisms, improving overall system stability and runtime reliability.',
+      'Automated data retrieval, validation, regression testing, and debugging workflows using shell scripting, SQL, and infrastructure scripts, reducing manual effort by 35–40% and cutting issue investigation time by 20%.',
+      'Improved cross-platform compatibility by identifying and fixing OS-specific issues, ensuring consistent behavior across distributed enterprise deployments.',
+      'Collaborated with QA, DevOps, and cross-functional teams in an Agile/Scrum environment, supporting 10+ release cycles, validating builds using Git, Jenkins CI/CD pipelines, Docker, and enterprise tools such as ClearQuest, ClearCase, and TDL, improving release reliability by 10%.'
     ]
   },
   {
-    role: 'MERN Stack Developer Intern',
-    company: 'Quadrilite Technologies, Remote – Hyderabad, India',
+    role: 'Full Stack Developer Intern',
+    company: 'Brainovision Solutions, Remote – Hyderabad, India',
     period: 'Jan 2022 – Jun 2022',
     points: [
-      'Developed full-stack web applications using MongoDB, Express.js, React.js, and Node.js (MERN).',
-      'Built and optimized REST APIs, integrated third-party services, and improved application performance.',
-      'Collaborated with a team of developers using Git and Agile methodologies.'
+      'Contributed to the design and development of MERN-based full-stack web applications supporting scalable business features in a remote Agile environment.',
+      'Built and optimized RESTful APIs using Node.js and Express.js, improving API response times by 25–30% through query optimization, caching strategies, and efficient request handling. ',
+      'Designed MongoDB schemas with proper indexing and aggregation pipelines, reducing database query latency by 20% and supporting 10K+ records per application.',
+      'Developed responsive React.js components using component-based architecture and efficient state management, improving page load performance by 20% and enhancing user experience.',
+      'Integrated third-party APIs and services for authentication, data enrichment, and external workflows, increasing feature delivery speed by 15%.',
+      'Collaborated with cross-functional teams using Git and Jira in an Agile/Scrum workflow, contributing to 5+ feature releases, participating in code reviews, and improving overall development velocity and application reliability.'
     ]
   }
 ];
