@@ -35,11 +35,10 @@ const Hero = () => {
           Abdul Muqeet Ahmed
         </motion.h1>
         <motion.h2 className="hero-subtitle" variants={item}>
-          MS CS Student @ CSU Fullerton & Software Engineer
+          MS CS Student @ CSU Fullerton · AI & Software Engineer
         </motion.h2>
         <motion.p className="hero-text" variants={item}>
-          I build scalable backend systems, full-stack web apps, and intelligent tools
-          using MERN, Python, and cloud technologies.
+          I build agentic AI systems, RAG pipelines, and scalable backend and full-stack applications using Python, Go, React, and cloud technologies.
         </motion.p>
         <motion.div className="hero-buttons" variants={item}>
           <a href="#projects">View Projects</a>

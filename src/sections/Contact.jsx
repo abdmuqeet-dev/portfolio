@@ -5,7 +5,7 @@ const Contact = () => {
     <AnimatedSection id="contact">
       <h2>Contact</h2>
       <p>
-        I'm open to software engineering internships and graduate opportunities. Feel free
+        I'm open to AI and software engineering opportunities. Feel free
         to reach out!
       </p>
       <ul className="contact-list">
